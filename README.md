@@ -9,6 +9,9 @@ See your daily horoscope easily.
 
 **Techs:** Next , Material UI, Zustand
 
+## API
+
+**API Used:** https://api.adderou.cl/tyaas/
 
   
 ## Run Locally
