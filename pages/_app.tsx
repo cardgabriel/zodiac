@@ -3,7 +3,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 import { ThemeProvider } from '@mui/material/styles';
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
-import theme from 'src/theme';
+import theme from 'assets/theme';
 
 export default function MyApp(props: AppProps) {
   const { Component, pageProps } = props;
