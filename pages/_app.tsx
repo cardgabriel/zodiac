@@ -10,7 +10,7 @@ export default function MyApp(props: AppProps) {
   return (
     <React.Fragment>
       <Head>
-        <title>Next App</title>
+        <title>Zodiac</title>
         <link href="/favicon.ico" rel="icon" />
         <meta content="minimum-scale=1, initial-scale=1, width=device-width" name="viewport" />
       </Head>
